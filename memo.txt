@@ -1,0 +1,13 @@
+LUA
+
+Official:
+https://www.lua.org/home.html
+
+Installation (YouTube):
+https://www.youtube.com/watch?v=zXW7YqoMUpA
+
+Download Lua from here:
+https://luabinaries.sourceforge.net/
+
+Download Lua for Windows from here:
+https://luadist.org/repository
